@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/DrawMyAnime/static/css/main.6d21bc86.chunk.css",
+    "main.js": "/DrawMyAnime/static/js/main.b535a0f7.chunk.js",
+    "main.js.map": "/DrawMyAnime/static/js/main.b535a0f7.chunk.js.map",
+    "runtime-main.js": "/DrawMyAnime/static/js/runtime-main.2cb5b9e4.js",
+    "runtime-main.js.map": "/DrawMyAnime/static/js/runtime-main.2cb5b9e4.js.map",
+    "static/css/2.31461e4f.chunk.css": "/DrawMyAnime/static/css/2.31461e4f.chunk.css",
+    "static/js/2.0a49dcd2.chunk.js": "/DrawMyAnime/static/js/2.0a49dcd2.chunk.js",
+    "static/js/2.0a49dcd2.chunk.js.map": "/DrawMyAnime/static/js/2.0a49dcd2.chunk.js.map",
+    "static/js/3.4e73dcd6.chunk.js": "/DrawMyAnime/static/js/3.4e73dcd6.chunk.js",
+    "static/js/3.4e73dcd6.chunk.js.map": "/DrawMyAnime/static/js/3.4e73dcd6.chunk.js.map",
+    "index.html": "/DrawMyAnime/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/DrawMyAnime/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.6d21bc86.chunk.css.map": "/DrawMyAnime/static/css/main.6d21bc86.chunk.css.map",
+    "static/js/2.0a49dcd2.chunk.js.LICENSE.txt": "/DrawMyAnime/static/js/2.0a49dcd2.chunk.js.LICENSE.txt",
+    "static/media/background2.d7c24ff2.jpg": "/DrawMyAnime/static/media/background2.d7c24ff2.jpg",
+    "static/media/index.css": "/DrawMyAnime/static/media/blackjack.288eb573.otf",
+    "static/media/d0.fcb65794.jpg": "/DrawMyAnime/static/media/d0.fcb65794.jpg",
+    "static/media/d1.514ffeab.jpg": "/DrawMyAnime/static/media/d1.514ffeab.jpg",
+    "static/media/d2.458bf0d5.jpg": "/DrawMyAnime/static/media/d2.458bf0d5.jpg",
+    "static/media/heart.a8a7eddd.png": "/DrawMyAnime/static/media/heart.a8a7eddd.png",
+    "static/media/logo.6ce24c58.svg": "/DrawMyAnime/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb5b9e4.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.0a49dcd2.chunk.js",
+    "static/css/main.6d21bc86.chunk.css",
+    "static/js/main.b535a0f7.chunk.js"
+  ]
+}
